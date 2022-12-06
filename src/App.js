@@ -1,6 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 
+
+
+/**
+ * Renders the basic App layout.
+ *
+ * @returns {div} The a basic div that contains the App layout.
+ */
 function App() {
   return (
     <div className="App">
